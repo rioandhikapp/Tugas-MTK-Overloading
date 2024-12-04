@@ -43,5 +43,8 @@ public class mtkBeraksi {
         mtk.modulus(12, 28, 14);
         mtk.modulus(23, 24);
         mtk.modulus(3.4, 4.9);
+
+        // uji operasiGabungan
+        mtk.operasiGabungan(10 , 5,2);
     }
 }
